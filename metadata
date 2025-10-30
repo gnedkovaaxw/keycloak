@@ -2,7 +2,7 @@
 	xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"
 	xmlns="urn:oasis:names:tc:SAML:2.0:metadata"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
-	xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="ID_746afbf1-b1b2-4b27-9ebe-4c6dbcb801db" entityID="https://10.133.147.180:32043/realms/SecureTransport-SSO">
+	xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="ID_746afbf1-b1b2-4b27-9ebe-4c6dbcb801db" entityID="https://10.133.147.180:32043/realms/SecureTransport-SSO"
     validUntil="2025-10-30T11:30:00Z"
     cacheDuration="PT1H">
 	<dsig:Signature
