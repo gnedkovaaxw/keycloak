@@ -3,7 +3,7 @@
 	xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata"
 	xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion"
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#" entityID="https://10.133.147.180:32043/realms/SecureTransport-SSO"
-    validUntil="2025-10-30T19:59:00Z"
+    validUntil="2025-11-30T19:59:00Z"
     cacheDuration="PT1H">
 	<md:IDPSSODescriptor WantAuthnRequestsSigned="false" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
 		<md:KeyDescriptor use="signing">
