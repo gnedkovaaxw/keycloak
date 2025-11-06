@@ -4,7 +4,7 @@
 	xmlns:ds="http://www.w3.org/2000/09/xmldsig#"
 	xmlns:saml="urn:oasis:names:tc:SAML:2.0:assertion" ID="ID_746afbf1-b1b2-4b27-9ebe-4c6dbcb801db" entityID="https://10.133.147.180:32043/realms/SecureTransport-SSO"
     validUntil="2025-11-06T20:20:00Z"
-    cacheDuration="PT5M">
+    cacheDuration="PT15M">
 	<dsig:Signature
 		xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
 		<dsig:SignedInfo>
